@@ -5,3 +5,11 @@ c:\users\denis panjuta\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\ob
 c:\users\denis panjuta\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.csproj.CoreCompileInputs.cache
 c:\users\denis panjuta\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.exe
 c:\users\denis panjuta\source\repos\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.pdb
+D:\jftMit1\LearnCsharpSpace\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\JaggedArrayChallenge.exe.config
+D:\jftMit1\LearnCsharpSpace\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\JaggedArrayChallenge.exe
+D:\jftMit1\LearnCsharpSpace\JaggedArrayChallenge\JaggedArrayChallenge\bin\Debug\JaggedArrayChallenge.pdb
+D:\jftMit1\LearnCsharpSpace\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.csproj.AssemblyReference.cache
+D:\jftMit1\LearnCsharpSpace\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.csproj.SuggestedBindingRedirects.cache
+D:\jftMit1\LearnCsharpSpace\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.csproj.CoreCompileInputs.cache
+D:\jftMit1\LearnCsharpSpace\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.exe
+D:\jftMit1\LearnCsharpSpace\JaggedArrayChallenge\JaggedArrayChallenge\obj\Debug\JaggedArrayChallenge.pdb
