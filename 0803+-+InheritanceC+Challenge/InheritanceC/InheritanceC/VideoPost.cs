@@ -40,7 +40,7 @@ namespace InheritanceC
             {
                 isPlaying = true;
                 Console.WriteLine("Playing");
-                timer = new Timer(TimerCallback, null, 0, 1000);
+                timer = new Timer(TimerCallback, null, 0, 1000);    //Timespan in milisecs
             }
             
         }
